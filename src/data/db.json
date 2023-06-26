@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post one",
+      "body": "Post body one"
+    },
+    {
+      "title": "Consequatur Consequ eee",
+      "body": "Mollit optio incidu",
+      "id": 4
+    },
+    {
+      "title": "Quia aspernatur cons",
+      "body": "Accusantium voluptat",
+      "id": 5
+    },
+    {
+      "title": "Omnis ab deserunt om",
+      "body": "Amet aperiam adipis",
+      "id": 7
+    }
+  ]
+}
