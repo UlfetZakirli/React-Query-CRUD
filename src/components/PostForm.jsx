@@ -18,6 +18,7 @@ const PostForm = ({ onSubmit, initialValue }) => {
         <div className="inputField">
             <label className="mb-1" htmlFor={label}>{label}</label>
             <input
+                id={label}
                 type="text"
                 value={post[label.toLowerCase()]}
                 placeholder={placeholder}
