@@ -20,6 +20,6 @@
 
 ### Folder Structure:
 
-![image](https://github.com/UlfetZakirli/React-Query-CRUD/assets/88549805/10b9245c-e843-4b49-9fe7-4baec32b06a4)
+![image](https://github.com/UlfetZakirli/React-Query-CRUD/assets/88549805/51f8eb08-5970-42e4-bca8-0729b865a576)
 
 
